@@ -1,0 +1,32 @@
+.btn-danger, .btn-primary {
+  display: inline-block;
+  border-radius: 5px;
+  padding: 8px 20px;
+  margin: 3px;
+  color: #ecf0f1;
+  font-size: 1.5rem;
+}
+
+.btn-primary {
+  background-color: #e74c3c;
+}
+.btn-primary:hover {
+  background-color: #ed7669;
+}
+
+.btn-danger {
+  background-color: #8e44ad;
+}
+.btn-danger:hover {
+  background-color: #a563c1;
+}
+
+.caption {
+  background-color: #e74c3c;
+}
+.caption-heading {
+  color: #ecf0f1;
+}
+.caption-text {
+  color: #ecf0f1;
+}/*# sourceMappingURL=style.css.map */

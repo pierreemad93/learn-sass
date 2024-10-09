@@ -1,0 +1,11 @@
+@import "colors";
+@import "utitlities";
+.caption {
+  background-color: $mainColor;
+  &-heading {
+    color: $whiteColor;
+  }
+  &-text {
+    color: $whiteColor;
+  }
+}
